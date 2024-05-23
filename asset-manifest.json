@@ -1,26 +1,23 @@
 {
   "files": {
-    "main.css": "/cixdy/static/css/main.f6a5328f.css",
-    "main.js": "/cixdy/static/js/main.77d62965.js",
+    "main.css": "/cixdy/static/css/main.71c476ec.css",
+    "main.js": "/cixdy/static/js/main.33baafe0.js",
+    "static/media/bg2.png": "/cixdy/static/media/bg2.250eb9de6df7d622a637.png",
+    "static/media/bg1.png": "/cixdy/static/media/bg1.8bb4a53007f967e8eb2b.png",
+    "static/media/bg3.png": "/cixdy/static/media/bg3.485550a9e0f74ee69fa5.png",
     "static/media/graphic.jpg": "/cixdy/static/media/graphic.0920649ca385b5a1d2ec.jpg",
     "static/media/websites.jpg": "/cixdy/static/media/websites.6030e6b789268c1b81d1.jpg",
-    "static/media/cube-dynamic-premium.png": "/cixdy/static/media/cube-dynamic-premium.d5631eda488c8af91cdd.png",
-    "static/media/sphere-iso-premium.png": "/cixdy/static/media/sphere-iso-premium.654789f5b6dd68c6556b.png",
     "static/media/clothes.jpg": "/cixdy/static/media/clothes.a81b66e7f6ab4d16b662.jpg",
+    "static/media/logo-svg.svg": "/cixdy/static/media/logo-svg.d4fdab3664d272be17142ce55b338ed8.svg",
     "index.html": "/cixdy/index.html",
-    "static/media/logo-svg.svg": "/cixdy/static/media/logo-svg.705f3f762c75724ac3683fbc462abff8.svg",
-    "static/media/contact.svg": "/cixdy/static/media/contact.a5cf4f7a43b13f19f6fc4df563c30638.svg",
     "static/media/moon.svg": "/cixdy/static/media/moon.1f1eab2919c293c71fca3cd1d0e80d6d.svg",
     "static/media/sun.svg": "/cixdy/static/media/sun.acb47e2f9f084d2dde97a30275787edf.svg",
-    "static/media/close.svg": "/cixdy/static/media/close.2369b059f70102c72298c550672352af.svg",
     "static/media/link-arrow.svg": "/cixdy/static/media/link-arrow.cced3318f2d39d7c5ebedf098ad1c88a.svg",
-    "static/media/images.svg": "/cixdy/static/media/images.9237f5bd27f44eb8a840c10c0cdf66a7.svg",
-    "static/media/home-light.svg": "/cixdy/static/media/home-light.454545dd470abb5a533d8993a278e348.svg",
-    "main.f6a5328f.css.map": "/cixdy/static/css/main.f6a5328f.css.map",
-    "main.77d62965.js.map": "/cixdy/static/js/main.77d62965.js.map"
+    "main.71c476ec.css.map": "/cixdy/static/css/main.71c476ec.css.map",
+    "main.33baafe0.js.map": "/cixdy/static/js/main.33baafe0.js.map"
   },
   "entrypoints": [
-    "static/css/main.f6a5328f.css",
-    "static/js/main.77d62965.js"
+    "static/css/main.71c476ec.css",
+    "static/js/main.33baafe0.js"
   ]
 }
